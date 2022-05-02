@@ -1,3 +1,3 @@
 # SPOJ
 
-- 1. Life, the Universe, and Everything :warning:
+1. Life, the Universe, and Everything
